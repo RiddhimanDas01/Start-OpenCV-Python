@@ -1,6 +1,9 @@
+# Start-OpenCV-Python
+
 # Beginner Track On Python with OpenCV
 
-![WhatsApp Image 2021-10-02 at 7.10.41 PM.jpeg](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/WhatsApp_Image_2021-10-02_at_7.10.41_PM.jpeg)
+![WhatsApp Image 2021-10-02 at 7 10 41 PM](https://user-images.githubusercontent.com/73641722/135733669-b743db6a-8f77-43ee-ab48-74e0da8715ae.jpeg)
+
 
 # **INSTALLATION AND SETUP *-***
 
@@ -12,7 +15,11 @@
 
 **Overview of using the *Anaconda prompt* and setting the *path folder* to open *Jupyter Notebook* -**
 
-![mumba.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/mumba.png)
+
+
+
+![mumba](https://user-images.githubusercontent.com/73641722/135733679-6f86c9c6-9c09-4d77-93ea-cfc03e36f526.png)
+
 
 Here above , 
 
@@ -140,17 +147,20 @@ For more about TensorFlow object detection API, visit their github repo [here](
 - Using library method and functions
 - Extraction and displaying the required parameters on the image
 
-![Screenshot 2021-10-01 021635.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/Screenshot_2021-10-01_021635.png)
+![Screenshot 2021-10-01 021635](https://user-images.githubusercontent.com/73641722/135733732-80cc1889-8cee-4150-8f9c-8d7764d60856.png)
 
-![1.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/1.png)
+
+![1](https://user-images.githubusercontent.com/73641722/135733741-4f4339db-9df3-48df-a93e-3e4a1e3eeb58.png)
+
 
 ### Tasks : *attach the .ipynb file and make a pull*
 
 - **To read ,show and plot an Image .**
 - **To read , show and save an image -**
-- [ ]  ***Open in a grayscale mode , further testing operations ( convert it from the BGR to the RGB format ) and plot the image.***
+- [ ] ***Open in a grayscale mode , further testing operations ( convert it from the BGR to the RGB format ) and plot the image.***
 
-![Screenshot 2021-10-01 025151.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/Screenshot_2021-10-01_025151.png)
+![Screenshot 2021-10-01 025151](https://user-images.githubusercontent.com/73641722/135733720-92f8a736-7abe-4e2c-814e-7b66ab55aede.png)
+
 
 ### Tasks : ***attach the .ipynb file and make a pull request***
 
@@ -172,7 +182,8 @@ For a better clarification and reference - **refer to this link -> [https://ww
 - Import the module from the libraries
 - Using library method and functions
 
-![vid.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/vid.png)
+![vid](https://user-images.githubusercontent.com/73641722/135733747-5f306e24-8d35-4e27-8f03-00d3e6efdb6b.png)
+
 
 ### Tasks : ***attach the .ipynb file and make a pull request***
 
@@ -203,11 +214,14 @@ For a better clarification and reference - **refer to this link -> [https://ww
 
 **Model Configuration - [https://drive.google.com/file/d/1e_WeDoTxLNa0KR-kBKb7WkgJxjRR72ph/view?usp=sharing](https://drive.google.com/file/d/1e_WeDoTxLNa0KR-kBKb7WkgJxjRR72ph/view?usp=sharing)**
 
-![7.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/7.png)
 
-![8.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/8.png)
+![7](https://user-images.githubusercontent.com/73641722/135733754-c053b822-01fa-4d1f-a6b1-a3b91613b3db.png)
 
-![0.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/0.png)
+![9](https://user-images.githubusercontent.com/73641722/135733757-3fc96483-d214-4a72-925a-0c12ce666454.png)
+
+![0](https://user-images.githubusercontent.com/73641722/135733767-961836e2-912e-4735-80ac-aaf4090f87b3.png)
+
+
 
 # **2.**
 
@@ -222,8 +236,11 @@ For a better clarification and reference - **refer to this link -> [https://ww
 - Set path should contain the images and videos being used during the execution of the code.
 - All the predefined models , trained graphs and preferred Data (if used) ,  CSV files set should be initialized in the code through the path.
 
-![111.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/111.png)
+![111](https://user-images.githubusercontent.com/73641722/135733816-80f242d5-1bad-403e-87c5-cd7ed6a5a723.png)
 
-![112.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/112.png)
+![112](https://user-images.githubusercontent.com/73641722/135733818-4b41a7df-9f7d-4e33-a9d6-a6a0716f6a73.png)
 
-![113.png](Beginner%20Track%20On%20Python%20with%20OpenCV%2041cdcb4bafa047ef98076f52a32967cd/113.png)
+![113](https://user-images.githubusercontent.com/73641722/135733820-96d0e853-f175-48e8-a99d-83a8f218825a.png)
+
+
+
